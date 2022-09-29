@@ -1,0 +1,19 @@
+C:\Users\tha\source\repos\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tha\source\repos\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tha\source\repos\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tha\source\repos\Test\bin\Debug\Test.dll
+C:\Users\tha\source\repos\Test\bin\Debug\Test.pdb
+C:\Users\tha\source\repos\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tha\source\repos\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tha\source\repos\Test\bin\Debug\TextClassification.exe
+C:\Users\tha\source\repos\Test\bin\Debug\TextClassification.pdb
+C:\Users\tha\source\repos\Test\bin\Debug\TextClassification.exe.config
+C:\Users\tha\source\repos\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tha\source\repos\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tha\source\repos\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\tha\source\repos\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\tha\source\repos\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\tha\source\repos\Test\obj\Debug\Test.dll
+C:\Users\tha\source\repos\Test\obj\Debug\Test.pdb
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\Test\obj\Debug\Test.dll
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\Test\obj\Debug\Test.pdb

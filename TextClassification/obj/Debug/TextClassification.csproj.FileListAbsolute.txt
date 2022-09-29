@@ -1,0 +1,41 @@
+C:\Users\tha\source\repos\TextClassification\bin\Debug\TextClassification.exe.config
+C:\Users\tha\source\repos\TextClassification\bin\Debug\TextClassification.exe
+C:\Users\tha\source\repos\TextClassification\bin\Debug\TextClassification.pdb
+C:\Users\tha\source\repos\TextClassification\obj\Debug\TextClassification.csproj.CoreCompileInputs.cache
+C:\Users\tha\source\repos\TextClassification\obj\Debug\TextClassification.exe
+C:\Users\tha\source\repos\TextClassification\obj\Debug\TextClassification.pdb
+C:\Users\tha\source\repos\TextClassification\obj\Debug\TextClassification.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\bin\Debug\TextClassification.exe.config
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\bin\Debug\TextClassification.exe
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\bin\Debug\TextClassification.pdb
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\obj\Debug\TextClassification.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\obj\Debug\TextClassification.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\obj\Debug\TextClassification.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\obj\Debug\TextClassification.exe
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\obj\Debug\TextClassification.pdb
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nikol\OneDrive\Visual Studio\From Teachers\TextClassification\TextClassification\obj\Debug\TextClassification.csproj.CopyComplete
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\bin\Debug\TextClassification.exe.config
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\bin\Debug\TextClassification.exe
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\bin\Debug\TextClassification.pdb
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\obj\Debug\TextClassification.csproj.AssemblyReference.cache
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\obj\Debug\TextClassification.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\obj\Debug\TextClassification.csproj.CoreCompileInputs.cache
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\obj\Debug\TextClassification.csproj.CopyComplete
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\obj\Debug\TextClassification.exe
+C:\Users\allan\Downloads\Working Stuff\TextClassification\TextClassification\obj\Debug\TextClassification.pdb
